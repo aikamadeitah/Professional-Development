@@ -8,8 +8,8 @@
 ### MANUFACTURING INDUSTRIES 
 PRODUCTION PROCESS
 
+* [GARDENIA Bakeries](https://www.gardenia.com.ph/)  
 * [Natures Spring Mineral Water](https://naturespring.com.ph/)
-* [GARDENIA Bakeries](https://www.gardenia.com.ph/)
 * [PROFOOD International Corporation](http://www.profoodcorp.com/)
 * [International Pharmaceuticals Incorporated](https://ipi.ph/)
 * [Bambi Oil, A.D. GOTHONG Manufacturing Corporation](https://www.adgothong.com/)
