@@ -1,4 +1,4 @@
-## Certifications
+## Licenses & Certifications
 
 ### Miljøstyrelsen Online Campus
 
