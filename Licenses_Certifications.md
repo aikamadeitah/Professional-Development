@@ -1,9 +1,13 @@
 ## Licenses & Certifications
 
+### Miljøstyrelsen Online Campus
+
+- [Microsoft Power BI](https://github.com/aikamadeitah/Professional-Development/blob/main/Certificates/Certificate_Power_BI.pdf)
+
 ### Nordcad Systems A/S  
 
-- [Capture CIS SFH](#!)
-- [Component Management CIP course SFH](#!)
+- [Capture CIS SFH](https://github.com/aikamadeitah/Professional-Development/blob/main/Certificates/Nordcad/certification-Capture-CIS-SFH-aikamadeitah.pdf)
+- [Component Management CIP course SFH](https://github.com/aikamadeitah/Professional-Development/blob/main/Certificates/Nordcad/certification-Component-Management-CIP-course-SFH-aikamadeitah.pdf)
 
 ### MathWorks  
 
