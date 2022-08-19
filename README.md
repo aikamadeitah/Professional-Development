@@ -1,6 +1,6 @@
 # Professional-Development
 
-## Licenses & Certifications
+## 🔖 Licenses & Certifications
 
 ### Miljøstyrelsen Online Campus
 
@@ -23,7 +23,7 @@
 - [Learning Industrial Automation](https://www.linkedin.com/learning/learning-industrial-automation)
 - [Learning Azure DevOps](https://www.linkedin.com/learning/learning-azure-devops-10005641)
 
-## CAREER AND LEARNING DAY
+## 🤖 CAREER AND LEARNING DAY
 
 ### [VIRTUAL CAREER AND INTERNSHIP DAY](https://www.ucl.dk/nyheder/business-og-digital-udvikling/45-it-studerende-blev-klogere-paa-datacenterbranchen-til-online-praktik--og-karrieredag)  
 
@@ -42,7 +42,7 @@ Teknologisk Institut & Dansk Robot Netværk ( DIRA )
 EOT MCS A/S - MCH Exhibition Center  
 31 August 2021
 
-## SEMINARS/TRAININGS & EDUCATIONAL TOURS :
+## 👷🏻‍♀️ SEMINARS/TRAININGS & EDUCATIONAL TOURS :
 
 * [Philippine Associated Smelting and Refining Corporation](https://pasar.com.ph/)
 * [Tongonan Geothermal Power Plant / Green Core Geothermal Inc.](https://www.energy.com.ph/shift-to-renewable-energy/)
