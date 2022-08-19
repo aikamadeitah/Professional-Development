@@ -42,5 +42,18 @@ Teknologisk Institut & Dansk Robot Netværk ( DIRA )
 EOT MCS A/S - MCH Exhibition Center  
 31 August 2021
 
+## SEMINARS/TRAININGS & EDUCATIONAL TOURS :
 
-[SEMINARS](https://github.com/aikamadeitah/Professional-Development/blob/main/SLSU_Engineering.md)
+* [Philippine Associated Smelting and Refining Corporation](https://pasar.com.ph/)
+* [Tongonan Geothermal Power Plant / Green Core Geothermal Inc.](https://www.energy.com.ph/shift-to-renewable-energy/)
+* Mahagnao Micro-Hydro Power Plant, In-house Lecture in LEYECO II
+* Technical Seminar on Substation Design Guide (Leyte-Samar Chapter)
+
+### MANUFACTURING INDUSTRIES 
+PRODUCTION PROCESS
+
+* [GARDENIA Bakeries](https://www.gardenia.com.ph/)  
+* [Natures Spring Mineral Water](https://naturespring.com.ph/)
+* [PROFOOD International Corporation](http://www.profoodcorp.com/)
+* [International Pharmaceuticals Incorporated](https://ipi.ph/)
+* [Bambi Oil, A.D. GOTHONG Manufacturing Corporation](https://www.adgothong.com/)
