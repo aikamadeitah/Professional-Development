@@ -7,12 +7,12 @@
 
 ### [ROBOTBRAG LÆRINGSDAG](https://www.dira.dk/kalender/dira-arrangementer/dira-business-og-robotbrag-2021/)
 
-- https://www.teknologisk.dk/  
+- [TEKNOLOGISK INSTITUT](https://www.teknologisk.dk/)  
 Teknologisk Institut & Dansk Robot Netværk ( DIRA )  
 27 August 2021
 
 ### [ELECTRONICS OF TOMORROW](https://www.eot-expo.com/about/about-eot)
 
-- https://www.eot.dk/  
+- [EOT.DK](https://www.eot.dk/)  
 EOT MCS A/S - MCH Exhibition Center  
 31 August 2021
