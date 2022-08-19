@@ -4,7 +4,7 @@
 
 ### Miljøstyrelsen Online Campus
 
-- [Microsoft Power BI](https://github.com/aikamadeitah/Professional-Development/blob/main/Certificates/Certificate_Power_BI.pdf)
+- [Microsoft Power BI](https://github.com/aikamadeitah/Professional-Development/blob/main/Certificates/PowerBI/Certificate_Power_BI.pdf)
 
 ### Nordcad Systems A/S  
 
