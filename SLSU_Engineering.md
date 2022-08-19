@@ -5,7 +5,8 @@
 * Mahagnao Micro-Hydro Power Plant, In-house Lecture in LEYECO II
 * Technical Seminar on Substation Design Guide (Leyte-Samar Chapter)
 
-### MANUFACTURING INDUSTRIES PRODUCTION PROCESS :
+### MANUFACTURING INDUSTRIES 
+PRODUCTION PROCESS
 
 * [Natures Spring Mineral Water](https://naturespring.com.ph/)
 * [GARDENIA Bakeries](https://www.gardenia.com.ph/)
