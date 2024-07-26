@@ -5,6 +5,7 @@
 ### Prince2 v.7
 
 - [Foundation](https://github.com/aikamadeitah/Professional-Development/blob/main/Certificates/Project%20Management/Prince2%20v7%20Foundation.pdf)
+- [Practitioner](https://github.com/aikamadeitah/Professional-Development/blob/main/Certificates/Project%20Management/Prince2%20v7%20Practitioner.pdf)
 
 ### Miljøstyrelsen Online Campus
 
